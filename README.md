@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hello, I'm Mahdin Alam
+<a href="https://www.linkedin.com/in/mahdin-alam-612750325/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**mahdinalam08/mahdinalam08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Computer Science with Cybersecurity student at the University of Greenwich, building my knowledge and practical skills in cybersecurity, networking and computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+I'm currently developing my cybersecurity skills through university studies, personal projects and hands-on experimentation. I'm particularly interested in network security, ethical hacking, penetration testing and security operations.
+
+My goal is to gain practical industry experience through a cybersecurity internship while continuing to develop my technical skills.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Network reconnaissance                        | Home Cybersecurity Lab |
+| Nmap                                          | Home Cybersecurity Lab|
+| Virtual Machines                              | Home CyberSecurity Lab|
+| Linux                                         | Home Cybersecurity Lab|
+| Windows Security Fundamentals                 | Home Cybersecurity Lab|
+| Networking Fundamentals                       | Home CyberSecurity Lab|
+| Python / Programming                          | Student Tournament System (School Project|
+
+
+## Tools
+
+Tools & Technologies
+Operating Systems & Virtualisation
+
+<div> <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" /> </div>
+
+Networking & Security
+
+<div> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white" /> </div>
+
+Programming
+
+<div> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> </div>
+
+## Certifications
+<div> <a href="https://coursera.org/share/18deed3382ab39ec89ef2da9969908a6"> <img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> </a> <a href="https://coursera.org/share/92caabe3ec806f5dac4cd2f8cb6eff6c"> <img src="https://img.shields.io/badge/-Play_It_Safe%3A_Manage_Security_Risks-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> </a> </div>
+
+## Projects
+Home Cybersecurity Lab
+
+A personal cybersecurity lab built using virtual machines to develop practical networking and security skills in a controlled environment.
+
+Set up a Linux virtual machine and Windows 10 virtual machine.
+Used Nmap from the Linux machine to discover and assess the Windows 10 virtual machine.
+Practised network reconnaissance by identifying hosts, open ports and available services.
+Used the environment to understand how network reconnaissance can be used during a simulated attack.
+Developed practical experience with Linux, Windows, networking and virtualisation.
+
+Currently Learning
+Cybersecurity fundamentals
+Network security
+Linux
+Python
+Networking
+Ethical hacking and penetration testing
+Virtualisation and security labs
+
+This profile documents my journey as I develop my skills in computer science and cybersecurity.
