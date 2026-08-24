@@ -37,9 +37,7 @@ Programming
 
 <div> <a href="https://www.python.org/downloads/"> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> </a> </div>
 
-Certifications
 
-<div> <a href="https://coursera.org/share/18deed3382ab39ec89ef2da9969908a6"> <img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> </a> <a href="https://coursera.org/share/92caabe3ec806f5dac4cd2f8cb6eff6c"> <img src="https://img.shields.io/badge/-Play_It_Safe%3A_Manage_Security_Risks-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> </a> </div>
 
 ## Certifications
 <div> <a href="https://coursera.org/share/18deed3382ab39ec89ef2da9969908a6"> <img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> </a> <a href="https://coursera.org/share/92caabe3ec806f5dac4cd2f8cb6eff6c"> <img src="https://img.shields.io/badge/-Play_It_Safe%3A_Manage_Security_Risks-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> </a> </div>
