@@ -1,5 +1,4 @@
-# Hello, I'm Mahdin Alam
-<a href="https://www.linkedin.com/in/mahdin-alam-612750325/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1>Hi, Mahdin! <br/><a href="https://github.com/mahdinalam08">Aspiring CyberSecurity Analyst</a>, <a href="https://www.linkedin.com/in/mahdin-alam-612750325/">Computer Science Student</a></h1>
 
 
 I'm a Computer Science with Cybersecurity student at the University of Greenwich, building my knowledge and practical skills in cybersecurity, networking and computing.
