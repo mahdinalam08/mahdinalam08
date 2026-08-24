@@ -25,18 +25,21 @@ My goal is to gain practical industry experience through a cybersecurity interns
 
 ## Tools
 
-Tools & Technologies
 Operating Systems & Virtualisation
 
-<div> <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" /> </div>
+<div> <a href="https://www.kali.org/get-kali/"> <img src="https://img.shields.io/badge/-Kali_Linux-FCC624?&style=for-the-badge&logo=kalilinux&logoColor=black" /> </a> <a href="https://www.microsoft.com/en-us/software-download/windows10"> <img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /> </a> <a href="https://www.virtualbox.org/"> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" /> </a> </div>
 
 Networking & Security
 
-<div> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white" /> </div>
+<div> <a href="https://nmap.org/download.html"> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white" /> </a> </div>
 
 Programming
 
-<div> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> </div>
+<div> <a href="https://www.python.org/downloads/"> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> </a> </div>
+
+Certifications
+
+<div> <a href="https://coursera.org/share/18deed3382ab39ec89ef2da9969908a6"> <img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> </a> <a href="https://coursera.org/share/92caabe3ec806f5dac4cd2f8cb6eff6c"> <img src="https://img.shields.io/badge/-Play_It_Safe%3A_Manage_Security_Risks-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> </a> </div>
 
 ## Certifications
 <div> <a href="https://coursera.org/share/18deed3382ab39ec89ef2da9969908a6"> <img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> </a> <a href="https://coursera.org/share/92caabe3ec806f5dac4cd2f8cb6eff6c"> <img src="https://img.shields.io/badge/-Play_It_Safe%3A_Manage_Security_Risks-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> </a> </div>
